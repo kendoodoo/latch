@@ -1,4 +1,4 @@
-<img src="latch.gif">
+<a href="https://latch.kentest.net"><img src="latch.gif"></a>
 
 Airdrop, but not Airdrop. For iOS 6 and down.
 
